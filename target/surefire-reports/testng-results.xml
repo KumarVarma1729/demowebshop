@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-29T20:11:30 IST" name="Suite" finished-at="2023-11-29T20:11:54 IST" duration-ms="23821">
+    <groups>
+      <group name="regression">
+        <method signature="AccountRegistrationTest.test_accountregistration()[pri:0, instance:demowebshop_testcases.AccountRegistrationTest@223d2c72]" name="test_accountregistration" class="demowebshop_testcases.AccountRegistrationTest"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_02_LoginTest.login_test()[pri:0, instance:demowebshop_testcases.TC_02_LoginTest@7f3b84b8]" name="login_test" class="demowebshop_testcases.TC_02_LoginTest"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="AccountRegistrationTest.test_accountregistration()[pri:0, instance:demowebshop_testcases.AccountRegistrationTest@223d2c72]" name="test_accountregistration" class="demowebshop_testcases.AccountRegistrationTest"/>
+        <method signature="TC_02_LoginTest.login_test()[pri:0, instance:demowebshop_testcases.TC_02_LoginTest@7f3b84b8]" name="login_test" class="demowebshop_testcases.TC_02_LoginTest"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2023-11-29T20:11:30 IST" name="demowebshopchromeTest" finished-at="2023-11-29T20:11:54 IST" duration-ms="23821">
+      <class name="demowebshop_testcases.TC_02_LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:demowebshop_testcases.TC_02_LoginTest@7f3b84b8]" started-at="2023-11-29T20:11:43 IST" name="setUp" finished-at="2023-11-29T20:11:50 IST" duration-ms="6584" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login_test()[pri:0, instance:demowebshop_testcases.TC_02_LoginTest@7f3b84b8]" started-at="2023-11-29T20:11:50 IST" name="login_test" finished-at="2023-11-29T20:11:54 IST" duration-ms="3816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demowebshop_testcases.TC_02_LoginTest@7f3b84b8]" started-at="2023-11-29T20:11:54 IST" name="teardown" finished-at="2023-11-29T20:11:54 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- demowebshop_testcases.TC_02_LoginTest -->
+      <class name="demowebshop_testcases.AccountRegistrationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:demowebshop_testcases.AccountRegistrationTest@223d2c72]" started-at="2023-11-29T20:11:31 IST" name="setUp" finished-at="2023-11-29T20:11:38 IST" duration-ms="7403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_accountregistration()[pri:0, instance:demowebshop_testcases.AccountRegistrationTest@223d2c72]" started-at="2023-11-29T20:11:38 IST" name="test_accountregistration" finished-at="2023-11-29T20:11:43 IST" duration-ms="4774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_accountregistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demowebshop_testcases.AccountRegistrationTest@223d2c72]" started-at="2023-11-29T20:11:43 IST" name="teardown" finished-at="2023-11-29T20:11:43 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- demowebshop_testcases.AccountRegistrationTest -->
+    </test> <!-- demowebshopchromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

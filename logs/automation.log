@@ -1,0 +1,166 @@
+16:09:28.051 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+16:09:29.003 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+16:09:29.011 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+16:09:32.118 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+16:13:16.867 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+16:13:17.773 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+16:13:17.783 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+16:13:20.846 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+16:15:04.017 [main] DEBUG demowebshop_testcases.AccountRegistrationTest - dubug logger
+16:15:04.027 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+16:15:05.056 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+16:15:05.063 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+16:15:08.205 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+16:20:40.634 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+16:20:41.927 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+16:20:41.934 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+16:20:45.641 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+16:25:18.090 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+16:25:19.045 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+16:25:19.052 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+16:25:22.072 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+16:38:57.434 [main] DEBUG demowebshop_testcases.AccountRegistrationTest - Application logs
+16:38:57.441 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+16:38:58.571 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+16:38:58.581 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+16:39:01.394 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+16:47:31.433 [main] DEBUG demowebshop_testcases.AccountRegistrationTest - Application logs
+16:47:31.440 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+16:47:32.466 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+16:47:32.473 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+16:47:35.869 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+21:16:08.249 [main] DEBUG demowebshop_testcases.AccountRegistrationTest - Application logs
+21:16:08.265 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+21:16:09.413 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+21:16:09.418 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+21:16:13.959 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+21:16:40.103 [main] DEBUG demowebshop_testcases.AccountRegistrationTest - Application logs
+21:16:40.114 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+21:16:41.118 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+21:16:41.125 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+21:16:46.081 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+21:27:06.618 [TestNG-tests-1] DEBUG demowebshop_testcases.AccountRegistrationTest - Application logs
+21:27:06.618 [TestNG-tests-2] DEBUG demowebshop_testcases.AccountRegistrationTest - Application logs
+21:27:06.631 [TestNG-tests-1] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+21:27:06.633 [TestNG-tests-2] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+21:27:07.623 [TestNG-tests-1] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+21:27:07.637 [TestNG-tests-1] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+21:27:07.656 [TestNG-tests-2] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+21:27:07.665 [TestNG-tests-2] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+21:27:10.823 [TestNG-tests-1] INFO  demowebshop_testcases.AccountRegistrationTest - success
+21:27:10.918 [TestNG-tests-2] INFO  demowebshop_testcases.AccountRegistrationTest - success
+13:41:52.847 [main] DEBUG demowebshop_testcases.AccountRegistrationTest - Application logs
+13:41:52.849 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+13:41:53.401 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+13:41:53.407 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+13:41:54.778 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+15:34:00.515 [main] DEBUG demowebshop_testcases.AccountRegistrationTest - Application logs
+15:34:00.527 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+15:34:02.070 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+15:34:02.079 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+15:34:05.742 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+15:42:35.505 [main] DEBUG demowebshop_testcases.AccountRegistrationTest - Application logs
+15:42:35.516 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+15:42:36.639 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+15:42:36.647 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+15:54:14.276 [main] DEBUG demowebshop_testcases.AccountRegistrationTest - Application logs
+15:54:14.290 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+15:54:15.377 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+15:54:15.385 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+16:04:58.308 [main] DEBUG demowebshop_testcases.AccountRegistrationTest - Application logs
+16:04:58.321 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+16:04:59.383 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+16:04:59.390 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+14:24:24.670 [main] INFO  demowebshop_testcases.TC_02_LoginTest - login test
+14:24:24.721 [main] INFO  demowebshop_testcases.TC_02_LoginTest - click on login
+14:24:27.047 [main] INFO  demowebshop_testcases.TC_02_LoginTest - login test is finshed
+21:28:25.334 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:28:38.162 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:28:50.702 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:29:03.281 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:29:15.358 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:31:36.795 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:32:38.218 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:32:50.927 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:33:03.308 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:33:15.707 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:33:28.145 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:34:55.550 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:35:08.658 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:35:19.944 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:35:31.158 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:35:42.283 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:37:14.256 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:37:25.724 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:37:37.373 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:37:52.858 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:38:03.993 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:38:15.427 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:43:25.461 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:43:36.910 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:43:48.063 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:43:59.311 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:44:10.905 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:44:23.152 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:46:44.235 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:46:55.613 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:47:06.817 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:47:20.101 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:47:31.470 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+21:47:45.353 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+22:01:24.538 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+22:01:36.020 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+22:01:47.784 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+22:02:00.477 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+22:02:12.327 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+22:02:23.610 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+22:02:26.095 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt finished
+15:00:24.452 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+15:00:24.994 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+15:00:24.995 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+15:00:26.455 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+15:00:29.911 [main] INFO  demowebshop_testcases.TC_02_LoginTest - login test
+15:00:29.912 [main] INFO  demowebshop_testcases.TC_02_LoginTest - click on login
+15:00:31.913 [main] INFO  demowebshop_testcases.TC_02_LoginTest - login test is finshed
+15:50:03.614 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:50:15.064 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:50:26.400 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:50:37.833 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:50:48.951 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:51:00.069 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:51:01.463 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt finished
+15:54:54.007 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:55:05.525 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:55:16.817 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:55:28.365 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:55:40.297 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:55:51.416 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+15:55:52.851 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt finished
+16:02:07.933 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+16:02:19.323 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+16:02:30.441 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+16:02:41.707 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+16:02:53.242 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+16:03:04.659 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt
+16:03:05.968 [main] INFO  demowebshop_testcases.TC_03_LoginDDT - login ddt finished
+16:04:46.266 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+16:04:46.924 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+16:04:46.926 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+16:04:48.311 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+16:04:51.996 [main] INFO  demowebshop_testcases.TC_02_LoginTest - login test
+16:04:51.996 [main] INFO  demowebshop_testcases.TC_02_LoginTest - click on login
+16:04:53.480 [main] INFO  demowebshop_testcases.TC_02_LoginTest - login test is finshed
+20:01:19.441 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+20:01:20.416 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+20:01:20.426 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+20:01:23.737 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+20:01:29.570 [main] INFO  demowebshop_testcases.TC_02_LoginTest - login test
+20:01:29.575 [main] INFO  demowebshop_testcases.TC_02_LoginTest - click on login
+20:01:32.650 [main] INFO  demowebshop_testcases.TC_02_LoginTest - login test is finshed
+20:11:38.509 [main] INFO  demowebshop_testcases.AccountRegistrationTest - *** AccountRegistrationTest***
+20:11:39.509 [main] INFO  demowebshop_testcases.AccountRegistrationTest - registration button clicked
+20:11:39.520 [main] INFO  demowebshop_testcases.AccountRegistrationTest - enter testdata 
+20:11:43.245 [main] INFO  demowebshop_testcases.AccountRegistrationTest - success
+20:11:50.222 [main] INFO  demowebshop_testcases.TC_02_LoginTest - login test
+20:11:50.222 [main] INFO  demowebshop_testcases.TC_02_LoginTest - click on login
+20:11:54.037 [main] INFO  demowebshop_testcases.TC_02_LoginTest - login test is finshed

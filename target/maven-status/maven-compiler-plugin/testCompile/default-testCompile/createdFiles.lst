@@ -1,0 +1,12 @@
+demowebshop_pageobjects\AccountRegistration.class
+demowebshop_testcases\TC_02_LoginTest.class
+demowebshop_testcases\TC_03_LoginDDT.class
+demowebshop_pageobjects\Basepage.class
+demowebshop_pageobjects\Homepage.class
+demowebshop_utilities\DataProviders.class
+demowebshop_utilities\ExtentReportUtility.class
+demowebshop_pageobjects\LogoutPage.class
+demowebshop_pageobjects\LoginPage.class
+demowebshop_utilities\ExcelUtility.class
+demowebshop_basetest\BaseClass.class
+demowebshop_testcases\AccountRegistrationTest.class
